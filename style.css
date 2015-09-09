@@ -1,0 +1,31 @@
+#button
+{
+	width:15px;
+	height:5px;
+	background-color: blue;
+	color:black;
+	display:inline;
+	margin:10px;
+}
+.container
+{
+	width:490px;
+	height:510px;
+	background-color:black;
+	border: 1px solid black;
+}
+
+.square
+{
+	width:26px;
+	height:26px;
+	background-color: red;
+	display:inline-block;
+	margin:2px;
+}
+h2
+{
+	font-family:Arial;
+	font-size:20px;
+	color: black;
+}
